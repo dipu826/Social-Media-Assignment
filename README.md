@@ -14,7 +14,7 @@ negative-words.txt  ---   negative words text file
 
 
 
-                       
+-------------------    
 
 Reddit related data:    
 -------------------   
